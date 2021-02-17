@@ -1,0 +1,5 @@
+Symlinking /home/mivia/CONSEGNA/ex2_ws/devel/lib/ex2_pkg/ex2_pkg_node2
+Symlinking /home/mivia/CONSEGNA/ex2_ws/devel/lib/ex2_pkg/ex2_pkg_node1
+Symlinking /home/mivia/CONSEGNA/ex2_ws/devel/lib/pkgconfig/ex2_pkg.pc
+Symlinking /home/mivia/CONSEGNA/ex2_ws/devel/share/ex2_pkg/cmake/ex2_pkgConfig-version.cmake
+Symlinking /home/mivia/CONSEGNA/ex2_ws/devel/share/ex2_pkg/cmake/ex2_pkgConfig.cmake

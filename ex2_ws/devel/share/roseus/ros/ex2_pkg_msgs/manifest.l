@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg_msgs/share/roseus/ros/ex2_pkg_msgs/manifest.l

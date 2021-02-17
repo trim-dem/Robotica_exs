@@ -1,0 +1,7 @@
+ex2_pkg
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/cmake.lock /home/mivia/CONSEGNA/ex2_ws/devel/./cmake.lock
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/lib/ex2_pkg/ex2_pkg_node2 /home/mivia/CONSEGNA/ex2_ws/devel/lib/ex2_pkg/ex2_pkg_node2
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/lib/ex2_pkg/ex2_pkg_node1 /home/mivia/CONSEGNA/ex2_ws/devel/lib/ex2_pkg/ex2_pkg_node1
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/lib/pkgconfig/ex2_pkg.pc /home/mivia/CONSEGNA/ex2_ws/devel/lib/pkgconfig/ex2_pkg.pc
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/share/ex2_pkg/cmake/ex2_pkgConfig-version.cmake /home/mivia/CONSEGNA/ex2_ws/devel/share/ex2_pkg/cmake/ex2_pkgConfig-version.cmake
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/share/ex2_pkg/cmake/ex2_pkgConfig.cmake /home/mivia/CONSEGNA/ex2_ws/devel/share/ex2_pkg/cmake/ex2_pkgConfig.cmake

@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/Exercise5/devel/.private/fanuc_move_group_interface/share/fanuc_move_group_interface/cmake/fanuc_move_group_interfaceConfig-version.cmake

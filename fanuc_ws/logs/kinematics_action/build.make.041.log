@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target client[0m
+[  0%] Built target kinematics_action_msgs_generate_messages_cpp
+[ 33%] Built target inverse_kinematic_action
+[ 66%] Built target server
+[ 83%] [32mBuilding CXX object CMakeFiles/client.dir/src/client.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action/lib/kinematics_action/client[0m
+[100%] Built target client

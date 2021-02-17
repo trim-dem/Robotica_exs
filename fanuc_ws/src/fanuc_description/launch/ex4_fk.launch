@@ -1,0 +1,13 @@
+<launch>
+    
+    <arg name="use_rviz" default="true" />
+    <arg name="debug" default="false" />
+    
+    <include file="$(find fanuc_moveit_config)/launch/planning_context.launch">
+        <arg name="load_robot_description" value="true" />
+        <param if="$(arg load_robot_description)" name="$(arg robot_description)" textfile="$(find fanuc_description)/robot/fanuc.urdf"/>
+    </include>
+
+    <include file="$(find fanuc_moveit_config)/launch/move_group.launch"/>
+    <node pkg="fanuc_description" name="fk_server" type="fk_server" output="screen"/>
+</launch>

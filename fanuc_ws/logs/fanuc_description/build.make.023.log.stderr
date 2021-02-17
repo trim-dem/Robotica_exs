@@ -1,0 +1,22 @@
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:40:39:[m[K [01;31m[Kerror: [m[K‘[01m[Kclear[m[K’ was not declared in this scope
+         service.request.fk_link_names,[01;31m[Kclear[m[K();
+                                       [01;31m[K^~~~~[m[K
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:40:39:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/usr/include/boost/mpl/list/aux_/clear.hpp:17:0[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:1[m[K:
+[01m[K/usr/include/boost/mpl/clear_fwd.hpp:20:38:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::mpl::clear[m[K’
+ template< typename Sequence > struct [01;36m[Kclear[m[K;
+                                      [01;36m[K^~~~~[m[K
+make[2]: *** [CMakeFiles/fk_client.dir/services/fk_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fk_client.dir/all] Error 2
+make: *** [all] Error 2

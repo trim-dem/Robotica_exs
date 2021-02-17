@@ -1,0 +1,12 @@
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/src/inverse_kinematic_action.cpp:86:5:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kelse[m[K’
+     [01;31m[Kelse[m[K {
+     [01;31m[K^~~~[m[K
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/src/inverse_kinematic_action.cpp:93:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kik_solutions_[m[K’ does not name a type
+     [01;31m[Kik_solutions_[m[K.resize(0);
+     [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/src/inverse_kinematic_action.cpp:94:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/inverse_kinematic_action.dir/src/inverse_kinematic_action.cpp.o] Error 1
+make[1]: *** [CMakeFiles/inverse_kinematic_action.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/lib/pkgconfig/ex2_pkg.pc

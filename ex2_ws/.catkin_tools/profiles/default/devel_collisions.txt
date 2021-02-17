@@ -1,0 +1,2 @@
+/home/mivia/ex2_ws/devel/./cmake.lock 90
+/home/mivia/CONSEGNA/ex2_ws/devel/./cmake.lock 2

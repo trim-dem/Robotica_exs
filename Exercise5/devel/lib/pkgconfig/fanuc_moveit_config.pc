@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/Exercise5/devel/.private/fanuc_moveit_config/lib/pkgconfig/fanuc_moveit_config.pc

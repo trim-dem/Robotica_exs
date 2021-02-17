@@ -1,0 +1,8 @@
+prefix=/home/mivia/CONSEGNA/fanuc_ws/install
+
+Name: fanuc_description
+Description: Description of fanuc_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp tf2_ros geometry_msgs moveit_msgs moveit_ros_planning_interface eigen_conversions

@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg/share/ex2_pkg/cmake/ex2_pkgConfig.cmake

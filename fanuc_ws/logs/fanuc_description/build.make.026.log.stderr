@@ -1,0 +1,10 @@
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:17:24:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kros::ServiceClient client[m[K’
+     ros::ServiceClient [01;31m[Kclient[m[K = nh.serviceClient<moveit_msgs::GetPositionFK>("compute_fk");
+                        [01;31m[K^~~~~~[m[K
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/fanuc_description/services/fk_client.cpp:14:24:[m[K [01;36m[Knote: [m[K‘[01m[Kros::ServiceClient client[m[K’ previously declared here
+     ros::ServiceClient [01;36m[Kclient[m[K = nh.serviceClient<moveit_msgs::GetPositionFK>("FK");
+                        [01;36m[K^~~~~~[m[K
+make[2]: *** [CMakeFiles/fk_client.dir/services/fk_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fk_client.dir/all] Error 2
+make: *** [all] Error 2

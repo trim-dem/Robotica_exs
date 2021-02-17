@@ -1,0 +1,8 @@
+prefix=/home/mivia/CONSEGNA/Exercise5/install
+
+Name: fanuc_description
+Description: Description of fanuc_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: xacro

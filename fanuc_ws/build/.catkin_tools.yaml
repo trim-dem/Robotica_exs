@@ -1,0 +1,6 @@
+devel_space: /home/mivia/CONSEGNA/fanuc_ws/devel
+install: false
+install_space: /home/mivia/CONSEGNA/fanuc_ws/install
+profile: default
+source_space: /home/mivia/CONSEGNA/fanuc_ws/src
+workspace: /home/mivia/CONSEGNA/fanuc_ws

@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target inverse_kinematic_action[0m
+[  0%] Built target kinematics_action_msgs_generate_messages_cpp
+[ 33%] Built target client
+[ 50%] [32mBuilding CXX object CMakeFiles/inverse_kinematic_action.dir/src/inverse_kinematic_action.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action/lib/libinverse_kinematic_action.so[0m
+[ 66%] Built target inverse_kinematic_action
+[ 83%] [32m[1mLinking CXX executable /home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action/lib/kinematics_action/server[0m
+[100%] Built target server

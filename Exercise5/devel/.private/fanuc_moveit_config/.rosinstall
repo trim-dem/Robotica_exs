@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mivia/CONSEGNA/Exercise5/devel/.private/fanuc_moveit_config/setup.sh

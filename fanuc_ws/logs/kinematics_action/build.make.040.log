@@ -1,0 +1,4 @@
+[  0%] Built target kinematics_action_msgs_generate_messages_cpp
+[ 33%] Built target inverse_kinematic_action
+[ 66%] Built target client
+[100%] Built target server

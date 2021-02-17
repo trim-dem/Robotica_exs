@@ -1,0 +1,7 @@
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/src/inverse_kinematic_action.cpp:[m[K In member function ‘[01m[Kvoid kinematics_action::InverseKinematicsAction::ik_callback_(const GetIKSolutionsGoalConstPtr&)[m[K’:
+[01m[K/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/src/inverse_kinematic_action.cpp:85:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+     [01;31m[Kelse[m[K {
+     [01;31m[K^~~~[m[K
+make[2]: *** [CMakeFiles/inverse_kinematic_action.dir/src/inverse_kinematic_action.cpp.o] Error 1
+make[1]: *** [CMakeFiles/inverse_kinematic_action.dir/all] Error 2
+make: *** [all] Error 2

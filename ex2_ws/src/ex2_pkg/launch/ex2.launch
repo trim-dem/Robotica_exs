@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ex2_pkg" name="robot_sensors1" type="ex2_pkg_node1" output="screen"/>
+    <node pkg="ex2_pkg" name="robot_sensors2" type="ex2_pkg_node2" output="screen"/>
+</launch>

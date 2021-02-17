@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/fanuc_ws/devel/.private/fanuc_description/share/fanuc_description/cmake/fanuc_descriptionConfig-version.cmake

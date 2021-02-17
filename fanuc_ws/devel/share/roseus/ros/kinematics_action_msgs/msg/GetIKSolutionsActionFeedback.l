@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action_msgs/share/roseus/ros/kinematics_action_msgs/msg/GetIKSolutionsActionFeedback.l

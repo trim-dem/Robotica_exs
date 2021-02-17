@@ -1,0 +1,1 @@
+/home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action/share/kinematics_action/cmake/kinematics_actionConfig-version.cmake

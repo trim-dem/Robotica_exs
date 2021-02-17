@@ -1,0 +1,2 @@
+/home/mivia/fanuc_ws/devel/./cmake.lock 352
+/home/mivia/CONSEGNA/fanuc_ws/devel/./cmake.lock 232

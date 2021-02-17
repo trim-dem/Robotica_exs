@@ -1,0 +1,6 @@
+devel_space: /home/mivia/CONSEGNA/Exercise5/devel
+install: false
+install_space: /home/mivia/CONSEGNA/Exercise5/install
+profile: default
+source_space: /home/mivia/CONSEGNA/Exercise5/src
+workspace: /home/mivia/CONSEGNA/Exercise5

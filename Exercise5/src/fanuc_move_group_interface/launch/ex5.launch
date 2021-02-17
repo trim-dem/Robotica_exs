@@ -1,0 +1,7 @@
+<launch>
+
+    <include file="$(find fanuc_moveit_config)/launch/demo.launch"></include>
+    <node pkg="fanuc_move_group_interface" type="fanuc_circle_traj" name="fanuc_circle_traj"/>
+    <node pkg="rqt_multiplot" type="rqt_multiplot" name="rqt_multiplot"/> 
+
+</launch>

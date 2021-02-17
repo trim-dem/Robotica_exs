@@ -1,0 +1,8 @@
+prefix=/home/mivia/CONSEGNA/fanuc_ws/devel/.private/kinematics_action
+
+Name: kinematics_action
+Description: Description of kinematics_action
+Version: 0.0.0
+Cflags: -I/home/mivia/CONSEGNA/fanuc_ws/src/kinematics_action/include
+Libs: -L${prefix}/lib -linverse_kinematic_action
+Requires: kinematics_action_msgs

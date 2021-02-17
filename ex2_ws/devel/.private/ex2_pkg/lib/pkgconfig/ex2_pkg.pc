@@ -1,0 +1,8 @@
+prefix=/home/mivia/CONSEGNA/ex2_ws/devel/.private/ex2_pkg
+
+Name: ex2_pkg
+Description: Description of ex2_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: ex2_pkg_msgs

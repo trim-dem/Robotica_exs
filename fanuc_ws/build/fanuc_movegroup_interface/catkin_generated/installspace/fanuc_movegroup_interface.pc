@@ -1,0 +1,8 @@
+prefix=/home/mivia/CONSEGNA/fanuc_ws/install
+
+Name: fanuc_movegroup_interface
+Description: Description of fanuc_movegroup_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
